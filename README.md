@@ -1,5 +1,6 @@
 Other stuff you will need:
 * A web server
+* curl
 * gnuplot
 * Some fonts for gnuplot, e.g. msttcorefonts (GDFONTPATH=/usr/share/fonts/truetype/msttcorefonts)
 * xmlstarlet
